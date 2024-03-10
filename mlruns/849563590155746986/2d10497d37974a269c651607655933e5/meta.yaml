@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/849563590155746986/2d10497d37974a269c651607655933e5/artifacts
+end_time: 1682446777498
+entry_point_name: ''
+experiment_id: '849563590155746986'
+lifecycle_stage: active
+run_id: 2d10497d37974a269c651607655933e5
+run_name: marvelous-ram-938
+run_uuid: 2d10497d37974a269c651607655933e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682446775273
+status: 4
+tags: []
+user_id: kparocki

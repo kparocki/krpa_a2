@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/942231911453413578/ea5cf139a9c14f8fa307b832f005ae2e/artifacts
+end_time: 1682465362618
+entry_point_name: ''
+experiment_id: '942231911453413578'
+lifecycle_stage: active
+run_id: ea5cf139a9c14f8fa307b832f005ae2e
+run_name: puzzled-squirrel-909
+run_uuid: ea5cf139a9c14f8fa307b832f005ae2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682465329148
+status: 4
+tags: []
+user_id: kparocki

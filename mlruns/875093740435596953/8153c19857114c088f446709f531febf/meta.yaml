@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/875093740435596953/8153c19857114c088f446709f531febf/artifacts
+end_time: 1682447346600
+entry_point_name: ''
+experiment_id: '875093740435596953'
+lifecycle_stage: active
+run_id: 8153c19857114c088f446709f531febf
+run_name: likeable-asp-802
+run_uuid: 8153c19857114c088f446709f531febf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682447330525
+status: 4
+tags: []
+user_id: kparocki

@@ -1,0 +1,1 @@
+('regressor', RandomForestRegressor(random_state=30))

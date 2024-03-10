@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/849563590155746986/510fcc15de024dddb154551fc3618ca0/artifacts
+end_time: 1682446741373
+entry_point_name: ''
+experiment_id: '849563590155746986'
+lifecycle_stage: active
+run_id: 510fcc15de024dddb154551fc3618ca0
+run_name: upset-squid-757
+run_uuid: 510fcc15de024dddb154551fc3618ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682446734065
+status: 4
+tags: []
+user_id: kparocki

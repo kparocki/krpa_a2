@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/263983547102636862/21eda35d147643ae9d082f35a411ff93/artifacts
+end_time: 1682445522058
+entry_point_name: ''
+experiment_id: '263983547102636862'
+lifecycle_stage: active
+run_id: 21eda35d147643ae9d082f35a411ff93
+run_name: persistent-shoat-464
+run_uuid: 21eda35d147643ae9d082f35a411ff93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682445519366
+status: 3
+tags: []
+user_id: kparocki

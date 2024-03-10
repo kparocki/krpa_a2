@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/656442635227001127/4402930a147b48319edd47e5061b1edf/artifacts
+end_time: 1682448036183
+entry_point_name: ''
+experiment_id: '656442635227001127'
+lifecycle_stage: active
+run_id: 4402930a147b48319edd47e5061b1edf
+run_name: vaunted-cow-101
+run_uuid: 4402930a147b48319edd47e5061b1edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682448015899
+status: 4
+tags: []
+user_id: kparocki

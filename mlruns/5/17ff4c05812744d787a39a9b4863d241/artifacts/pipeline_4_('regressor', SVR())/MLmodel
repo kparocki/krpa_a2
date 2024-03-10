@@ -1,0 +1,16 @@
+artifact_path: pipeline_4_('regressor', SVR())
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 1.27.0
+model_uuid: 8916f3d827144dc6a05fdb3279b42fa6
+run_id: 17ff4c05812744d787a39a9b4863d241
+utc_time_created: '2023-04-25 11:38:18.538038'

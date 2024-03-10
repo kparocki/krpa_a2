@@ -1,0 +1,16 @@
+artifact_path: pipeline_6_('regressor', RandomForestRegressor(random_state=30))
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 1.27.0
+model_uuid: 607461f1266d4cc0b22378a8229619db
+run_id: 50868f786f6a4f958d399de5d7737cda
+utc_time_created: '2023-04-25 11:38:41.197448'

@@ -1,0 +1,4 @@
+ColumnTransformer(transformers=[('dir_to_trig',
+                                 FunctionTransformer(func=<function start_run.<locals>.dir_to_trig at 0x7f11a57f70a0>),
+                                 ['Direction']),
+                              ...

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/145817671796327770/ae0e19d49fb040f2881d0ce56e62a180/artifacts
+end_time: 1682455202826
+entry_point_name: ''
+experiment_id: '145817671796327770'
+lifecycle_stage: active
+run_id: ae0e19d49fb040f2881d0ce56e62a180
+run_name: trusting-dolphin-777
+run_uuid: ae0e19d49fb040f2881d0ce56e62a180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682455148603
+status: 3
+tags: []
+user_id: kparocki

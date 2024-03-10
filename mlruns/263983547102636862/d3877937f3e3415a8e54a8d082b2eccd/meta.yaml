@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/263983547102636862/d3877937f3e3415a8e54a8d082b2eccd/artifacts
+end_time: 1682445522732
+entry_point_name: ''
+experiment_id: '263983547102636862'
+lifecycle_stage: active
+run_id: d3877937f3e3415a8e54a8d082b2eccd
+run_name: nimble-swan-227
+run_uuid: d3877937f3e3415a8e54a8d082b2eccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682445501690
+status: 3
+tags: []
+user_id: kparocki

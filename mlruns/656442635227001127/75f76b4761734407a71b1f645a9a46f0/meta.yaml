@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/656442635227001127/75f76b4761734407a71b1f645a9a46f0/artifacts
+end_time: 1682448035420
+entry_point_name: ''
+experiment_id: '656442635227001127'
+lifecycle_stage: active
+run_id: 75f76b4761734407a71b1f645a9a46f0
+run_name: honorable-lark-247
+run_uuid: 75f76b4761734407a71b1f645a9a46f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682448033044
+status: 4
+tags: []
+user_id: kparocki

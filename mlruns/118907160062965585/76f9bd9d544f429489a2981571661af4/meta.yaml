@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/118907160062965585/76f9bd9d544f429489a2981571661af4/artifacts
+end_time: 1682454136114
+entry_point_name: ''
+experiment_id: '118907160062965585'
+lifecycle_stage: active
+run_id: 76f9bd9d544f429489a2981571661af4
+run_name: enchanting-deer-92
+run_uuid: 76f9bd9d544f429489a2981571661af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682454126115
+status: 4
+tags: []
+user_id: kparocki

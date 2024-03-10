@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/290140307327160675/fcaa31f58ec945b7a914db46e6fc7147/artifacts
+end_time: 1682448395762
+entry_point_name: ''
+experiment_id: '290140307327160675'
+lifecycle_stage: active
+run_id: fcaa31f58ec945b7a914db46e6fc7147
+run_name: intrigued-eel-582
+run_uuid: fcaa31f58ec945b7a914db46e6fc7147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682448378073
+status: 3
+tags: []
+user_id: kparocki

@@ -1,0 +1,7 @@
+name: power_generation
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "python mlflow_assignment_2_krpa.py"

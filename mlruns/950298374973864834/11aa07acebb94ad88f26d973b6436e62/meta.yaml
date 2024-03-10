@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/950298374973864834/11aa07acebb94ad88f26d973b6436e62/artifacts
+end_time: 1682443474400
+entry_point_name: ''
+experiment_id: '950298374973864834'
+lifecycle_stage: active
+run_id: 11aa07acebb94ad88f26d973b6436e62
+run_name: thoughtful-dog-510
+run_uuid: 11aa07acebb94ad88f26d973b6436e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682443453460
+status: 3
+tags: []
+user_id: kparocki

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/7/672e4d4b6b2840f487b6c5e7e03f5ab2/artifacts
+end_time: 1682443290666
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 672e4d4b6b2840f487b6c5e7e03f5ab2
+run_name: handsome-gull-198
+run_uuid: 672e4d4b6b2840f487b6c5e7e03f5ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682443269648
+status: 3
+tags: []
+user_id: kparocki

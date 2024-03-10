@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/875093740435596953/b80435ddcc1d4372995eec1670a96a0a/artifacts
+end_time: 1682447345202
+entry_point_name: ''
+experiment_id: '875093740435596953'
+lifecycle_stage: active
+run_id: b80435ddcc1d4372995eec1670a96a0a
+run_name: power_pred_0_SVR()
+run_uuid: b80435ddcc1d4372995eec1670a96a0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682447341942
+status: 3
+tags: []
+user_id: kparocki

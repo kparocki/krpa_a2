@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/849563590155746986/54173aef3fed43febaaff99651c124da/artifacts
+end_time: 1682446778231
+entry_point_name: ''
+experiment_id: '849563590155746986'
+lifecycle_stage: active
+run_id: 54173aef3fed43febaaff99651c124da
+run_name: rumbling-chimp-167
+run_uuid: 54173aef3fed43febaaff99651c124da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682446759774
+status: 4
+tags: []
+user_id: kparocki

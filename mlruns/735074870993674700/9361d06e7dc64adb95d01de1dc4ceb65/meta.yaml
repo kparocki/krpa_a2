@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/735074870993674700/9361d06e7dc64adb95d01de1dc4ceb65/artifacts
+end_time: 1682453742430
+entry_point_name: ''
+experiment_id: '735074870993674700'
+lifecycle_stage: active
+run_id: 9361d06e7dc64adb95d01de1dc4ceb65
+run_name: nebulous-stag-674
+run_uuid: 9361d06e7dc64adb95d01de1dc4ceb65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682453721659
+status: 3
+tags: []
+user_id: kparocki

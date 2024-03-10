@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/656442635227001127/5c68ce7e7eb24cc79f13ff626d1a0145/artifacts
+end_time: 1682447585716
+entry_point_name: ''
+experiment_id: '656442635227001127'
+lifecycle_stage: active
+run_id: 5c68ce7e7eb24cc79f13ff626d1a0145
+run_name: rare-eel-739
+run_uuid: 5c68ce7e7eb24cc79f13ff626d1a0145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682447579476
+status: 4
+tags: []
+user_id: kparocki

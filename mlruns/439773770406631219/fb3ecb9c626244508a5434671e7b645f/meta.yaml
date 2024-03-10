@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/439773770406631219/fb3ecb9c626244508a5434671e7b645f/artifacts
+end_time: 1682454575422
+entry_point_name: ''
+experiment_id: '439773770406631219'
+lifecycle_stage: active
+run_id: fb3ecb9c626244508a5434671e7b645f
+run_name: 3_LinearRegression()
+run_uuid: fb3ecb9c626244508a5434671e7b645f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682454572470
+status: 3
+tags: []
+user_id: kparocki

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/6/3a1e647477c74669bf41c8206378eb1f/artifacts
+end_time: 1682442433597
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 3a1e647477c74669bf41c8206378eb1f
+run_name: power_pred_6_LinearRegression()
+run_uuid: 3a1e647477c74669bf41c8206378eb1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682442429456
+status: 3
+tags: []
+user_id: kparocki

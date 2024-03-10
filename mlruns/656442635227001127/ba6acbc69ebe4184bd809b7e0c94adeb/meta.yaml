@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/656442635227001127/ba6acbc69ebe4184bd809b7e0c94adeb/artifacts
+end_time: 1682448078319
+entry_point_name: ''
+experiment_id: '656442635227001127'
+lifecycle_stage: active
+run_id: ba6acbc69ebe4184bd809b7e0c94adeb
+run_name: grandiose-colt-709
+run_uuid: ba6acbc69ebe4184bd809b7e0c94adeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682448056936
+status: 3
+tags: []
+user_id: kparocki

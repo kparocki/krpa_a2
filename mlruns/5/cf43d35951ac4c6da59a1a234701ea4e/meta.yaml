@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/5/cf43d35951ac4c6da59a1a234701ea4e/artifacts
+end_time: 1682439895715
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+name: ''
+run_id: cf43d35951ac4c6da59a1a234701ea4e
+run_uuid: cf43d35951ac4c6da59a1a234701ea4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682439890608
+status: 3
+tags: []
+user_id: kparocki

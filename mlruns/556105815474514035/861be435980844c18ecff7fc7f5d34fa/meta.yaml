@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/556105815474514035/861be435980844c18ecff7fc7f5d34fa/artifacts
+end_time: 1682445783913
+entry_point_name: ''
+experiment_id: '556105815474514035'
+lifecycle_stage: active
+run_id: 861be435980844c18ecff7fc7f5d34fa
+run_name: bedecked-elk-943
+run_uuid: 861be435980844c18ecff7fc7f5d34fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682445761556
+status: 3
+tags: []
+user_id: kparocki

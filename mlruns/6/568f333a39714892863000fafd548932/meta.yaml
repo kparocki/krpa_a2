@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kparo/Desktop/itu/lsda/assignment2/krpa_a2/mlruns/6/568f333a39714892863000fafd548932/artifacts
+end_time: 1682442382224
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 568f333a39714892863000fafd548932
+run_name: power_pred_2_RandomForestRegressor(random_state=30)
+run_uuid: 568f333a39714892863000fafd548932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682442377295
+status: 3
+tags: []
+user_id: kparocki
